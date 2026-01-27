@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=200&section=header&text=Abdoulaye%20Baldé&fontSize=50&fontColor=D8DEE9&animation=fadeIn&fontAlignY=38&fontAlign=50&desc=Computer%20Scientist&descAlignY=60&descAlign=50" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&pause=999999999&color=88C0D0&center=true&vCenter=true&width=300&height=60&lines=2YLIT" alt="2YLIT" />
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=800&lines=Computer+Scientist;Junior+Developer;Aventurier+en+Informatique;Web+%26+Mobile+Developer;Linux+%26+C+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
 </div>
 
@@ -79,22 +85,12 @@ while (true) {
 
 ---
 
-## Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LayeBALDEabdou&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9" width="60%" />
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayeBALDEabdou)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdoulaye-balde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulaye-balde-708a75377/)
 
 <br/>
 
