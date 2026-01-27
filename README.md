@@ -6,17 +6,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=800&lines=Computer+Scientist;Junior+Developer;Aventurier+en+Informatique;Web+%26+Mobile+Developer;Linux+%26+C+Enthusiast)](https://git.io/typing-svg)
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-
 </div>
 
 ---
 
 ## À propos
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 Passionné par **Linux** et la **programmation système en C**, je développe des applications web et mobiles tout en explorant l'univers du développement bas niveau.
 
