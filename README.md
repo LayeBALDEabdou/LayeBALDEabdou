@@ -83,24 +83,7 @@ while (true) {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LayeBALDEabdou&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9" width="100%" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LayeBALDEabdou&theme=nord&hide_border=true&background=0d1117&ring=88C0D0&fire=88C0D0&currStreakLabel=88C0D0" width="100%" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LayeBALDEabdou&theme=nord&hide_border=true&bg_color=0d1117&color=88C0D0&line=88C0D0&point=D8DEE9&area=true&area_color=88C0D0" width="95%">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LayeBALDEabdou&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=LayeBALDEabdou&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=88C0D0&icon_color=88C0D0&text_color=D8DEE9" width="60%" />
 
 </div>
 
