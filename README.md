@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=200&section=header&text=Abdoulaye%20Baldé&fontSize=50&fontColor=D8DEE9&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:3B4252&height=200&section=header&text=Abdoulaye%20Baldé&fontSize=50&fontColor=D8DEE9&animation=fadeIn&fontAlignY=38&fontAlign=50&desc=Computer%20Scientist&descAlignY=60&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Computer+Scientist;Junior+Developer;Aventurier+en+Informatique;Web+%26+Mobile+Developer;Linux+%26+C+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=800&lines=Computer+Scientist;Junior+Developer;Aventurier+en+Informatique;Web+%26+Mobile+Developer;Linux+%26+C+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
