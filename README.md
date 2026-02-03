@@ -16,14 +16,17 @@
 
 Passionné par **Linux** et la **programmation système en C**, je développe des applications web et mobiles tout en explorant l'univers du développement bas niveau.
 
-### Mes passions
-
-```c
-while (true) {
-    comprendre_os_internals();
-    optimiser_code_bas_niveau();
-    creer_apps_performantes();
-    explorer_linux();
+```javascript
+while (alive) {
+    try {
+        learn();
+        build();
+        innovate();
+        share();
+    } catch (failure) {
+        learn_from_mistakes();
+        retry();
+    }
 }
 ```
 
@@ -49,6 +52,7 @@ while (true) {
 ### Systèmes & Programmation
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -87,11 +91,20 @@ while (true) {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayeBALDEabdou)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulaye-balde-708a75377/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twoylit@gmail.com)
 
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=LayeBALDEabdou&style=flat-square&color=88C0D0)
 
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<i>"It works on my machine" - Devise du développeur</i>
 </div>
 
 <br/>
