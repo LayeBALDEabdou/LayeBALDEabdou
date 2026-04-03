@@ -10,21 +10,6 @@
 
 ---
 
-## À propos
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-
-Passionné par **Linux** et la **programmation système en C**, je développe des applications web et mobiles tout en explorant le développement bas niveau.
-
-- Fonctionnement interne des systèmes d'exploitation
-- Programmation bas niveau et optimisation
-- Applications web et mobiles performantes
-
-<br clear="right"/>
-
----
-
-## Stack Technique
 
 <div align="center">
 
