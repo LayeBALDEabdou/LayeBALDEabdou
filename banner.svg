@@ -81,14 +81,8 @@
 
   <text x="720" y="38" font-family="'Courier New', monospace" font-size="11" fill="#8b949e" font-weight="bold" letter-spacing="1">CONTACT</text>
 
-  <a href="https://2ylit-portfolio.vercel.app/" target="_blank">
-    <text x="720" y="68" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" text-decoration="underline">◆ Portfolio</text>
-  </a>
-  <a href="https://www.linkedin.com/in/abdoulaye-balde-708a75377/" target="_blank">
-    <text x="720" y="92" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" text-decoration="underline">◆ LinkedIn</text>
-  </a>
-  <a href="mailto:twoylit@gmail.com" target="_blank">
-    <text x="720" y="116" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff" text-decoration="underline">◆ Email</text>
-  </a>
+  <text x="720" y="68" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff">◆ Portfolio</text>
+  <text x="720" y="92" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff">◆ LinkedIn</text>
+  <text x="720" y="116" font-family="'Courier New', monospace" font-size="12" fill="#58a6ff">◆ Email</text>
 
 </svg>
