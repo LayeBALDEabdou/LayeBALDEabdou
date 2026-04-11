@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a0a00&height=120&text=Abdoulaye%20BALDE&fontColor=E8834D&fontSize=42&fontAlignY=45&desc=Computer%20Scientist%20%7C%20Junior%20Developer%20%7C%20Linux%20%26%20C%20Enthusiast&descColor=cccccc&descSize=16&descAlignY=72&stroke=E8834D&strokeWidth=1)](https://github.com/LayeBALDEabdou)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://2ylit-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoulaye-balde-708a75377/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twoylit@gmail.com)
